@@ -1,0 +1,14 @@
+body
+{
+    background-color: #dadada;
+}
+
+.success-message
+{
+    display: none;
+}
+
+#error-name, #error-phone, #error-email, #error-zip, #error-contact
+{
+    display: none;
+}
